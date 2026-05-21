@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-[My solution](https://dovelm.github.io/FEM-faq-accordion-card-main)
+[My solution](https://dovlym.github.io/FEM-faq-accordion-card-main)
 
 
 ## My process
